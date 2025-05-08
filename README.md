@@ -1,2 +1,2 @@
 # BlockBound-For-Forge
-Github for Blockbound modpack on modrintzh
+Github for Blockbound modpack on modrinth
